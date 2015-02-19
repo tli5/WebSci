@@ -1,0 +1,13 @@
+.weather p {
+	display: inline
+}
+
+.weather .day, .weather .date, .weather .city{
+	text-align: center;
+	vertical-align: center;
+	
+}
+
+#template {
+	display: none;
+}
